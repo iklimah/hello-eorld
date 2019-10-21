@@ -1,2 +1,2 @@
-# hello-eorld
+# hello-world
 Aad team 38
